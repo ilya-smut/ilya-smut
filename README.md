@@ -1,6 +1,6 @@
 <div id="hello" align="center">
   <h1> Hi 👋, I'm Ilya </h1>
-  <h3> Cybersecurity student from Leicester </h3>
+  <h3> Cyber Security student from Leicester </h3>
  </div>
  
 <div id="header" align="center">
