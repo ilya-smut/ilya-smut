@@ -12,22 +12,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
- 
- <div id='info'>
-  <h2> 🌱 I’m currently learning: </h2>
-  
-  <ol>
-    <li> Foundation of Cyber Security </li>
-    <li> Endpoint Security </li>
-    <li> Python </li>
-    <li> Networking and business infrastructure security </li>
-  </ol> 
-  
-  <h2> 🔭 I’m currently working on: </h2>
-  <ol>
-    <li> Caesor Cipher Telegram Bot </li>
-    <li> 
-      <a href='https://github.com/ilya-smut/pythonCoderedCourse/tree/main/rpg-game-project'> Basic Python Console RPG game </a>
-    </li>
-    
-  </ol>
